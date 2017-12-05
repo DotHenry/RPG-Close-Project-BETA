@@ -51,7 +51,7 @@ linha de raciocínio, uma explosão vinda da entrada do seu apartamento, não fo
   	[Se esconder e esperar [1.1.1]] [DEAD END 1]
 
   Você está no banheiro, não sabe para onde ir, nem se tem como sair, então decide esperar. 
-  Passasse alguns segundos e você começa a ouvir passos, cada vez mais pertos, quando você vai tomar alguma ação, sente dois tiros vindo através da porta, como está meio escondido, um deles não te acerta, mas o outro pega no meio do ombro.
+  Passasse alguns segundos e você começa a ouvir passos, cada vez mais pertos, quando você vai tomar alguma ação, ouve dois tiros vindo através da porta, como está meio escondido, um deles não te acerta, mas o outro pega no meio do ombro.
   Você dá um grito de dor, o que acaba entregando sua localização, a porta logo em seguida é derrubada e 2 caras armados estão mirando em você, eles fazem uma sequência de disparos, quase todos lhe acertam, e antes de cair morto você escuta: 
 - Alvo negou-se a abaixar a arma, tivemos de atirar senhor.
 
@@ -59,7 +59,8 @@ linha de raciocínio, uma explosão vinda da entrada do seu apartamento, não fo
  	 [Correr para o quarto [1.1.2]]
 
 
-  Você está no banheiro, não tem como sair pela janela, a única coisa que passa na sua cabeça agora é: 'Eu tenho que sair daqui e saber o que tá rolando, mas não desprotegido. Tenho de pegar a minha arma.' Você abre a porta e sai correndo meio agachado, quando em seguida quatro tiros quebram a porta, você  consegue chegar em segurança no seu quarto, você pega sua arma e documentos e escuta algumas pessoas avançando para o seu quarto. 
+  Você está no banheiro, não tem como sair pela janela, a única coisa que passa na sua cabeça agora é: 'Eu tenho que sair daqui e saber o que tá rolando, mas não desprotegido. Tenho de pegar a minha arma.' 
+  Você abre a porta e sai correndo meio agachado, quando em seguida quatro tiros quebram a porta, você  consegue chegar em segurança no seu quarto, você pega sua arma e documentos e escuta algumas pessoas avançando para o seu quarto. 
   O que você vai fazer?
 
 • Atirar e fugir [1.4.1]
