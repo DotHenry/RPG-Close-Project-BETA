@@ -1,4 +1,39 @@
-	Texto Introdutório Atual 
+Texto Introdutório Atual
+
+Bem-vindo ao ShadowRunner
+
+• Mundo
+Você está situado em um mundo distópico pelo ano de 2056, onde existe a magia, e com ela, tudo evoluiu mais rápido que o normal, as pessoas se dividiram em raças (Anão, Troll, Elfo, Orcs e Humanos), a Tecnologia evoluiu drasticamente (robôs, drones, etc).
+As nações não possuem mais o poder governamental, e sim as NeoEmpresas.
+As NeoEmpresas são empresas tão grandes que passam do limite territorial, ou seja, são elas que controlam as nações, e as regras.
+E no meio disso tudo é onde você estará situado como um Shadowrunner. Mas afinal, oque é um Shadowrunner?
+Eles, como o nome diz, são "Corredores das Sombras", você é um ladrão, dará a sua vida pelo "trabalho sujo", e fará de tudo para completar sua missão e rezar para que não seja descoberto, por que se for, eles irão atrás de você. Mas não pense que são só ladrões, e como se fosse a "elite" deles.
+
+•Seu Passado
+Agora em especial, o seu personagem.
+
+Você será John, um humano com 29 anos. Você teve um passado triste, pois foi criado em um orfanato, e no decorrer da sua vida, acabou sendo arrastado para uma vida de crimes e roubos para poder sobreviver.
+Em um dia na sua infância, um senhor apareceu por lá, ninguém sabia o porque nem de onde ele veio, mas que ele era estranho, todos concordavam.
+Até que tiveram a brilhante ideia de rouba-lo também.
+Você e seus amigos esperaram até o melhor momento para fazer a tentiva, mas foram parados, todos quase que ao mesmo tempo, pelo senhor. Seus olhos brilharam de medo e respeito por ele.
+Ele chamou-lhe para treinar pois ficou intrigado por sua coragem, mesmo não conhecendo tal homem.
+Muitos anos depois, você já era treinado para o que fazia, roubar. Já havia feito vários trabalhos com várias pessoas e havia conquistado seu próprio grupo.
+
+• Características
+
+Esse RPG também há um sistema de características, uma coisa básica para auxiliar na jogabilidade.
+Você terá 3 Características:
+• STRENGTH (Força)
+• DEXTERITY (Dextreza)
+• INTELLIGENCE (Inteligência)
+Cada um deles tem uma função específica, como exemplo:
+STRENGTH será para verificar a força do seu personagem, quanto peso consegue aguentar, o quão longe pula, etc.
+DEXTERITY será para verificar sua velocidade nas tarefas, acrobacias, mira com armas de fogo, etc.
+INTELLIGENCE será para sua velocidade de raciocínio, construção de peças e afins, conhecimento mundano, etc.
+Seu personagem terá 9 pontos para ser gasto em entre elas, o que irá afetar durante o jogo, pois algumas escolhas só serão feitas se você cumprir o requisito de tal característica.
+
+=================================================================
+◘ ESCOLHAS ◘
 
 12 de Março de 2056, 9:47 da manhã. 
   O Sol está levantando, e meios aos prédios tecnológicos, uma visão bela de se ver, pelo menos na primeira vez. 
@@ -10,7 +45,8 @@
 • Ir na Varanda olhar os arredores [1.2] 
 • Checar o celular [1.3] 
 
-================================================= 
+======
+ 
 	[Ir no Banheiro [1.1]] 
 
   Você vai até o banheiro fazer as necessidades e afins, o ambiente não é o melhor que existe, mas da para sobreviver. 
@@ -21,8 +57,9 @@ Algo não está certo, o silêncio continua do mesmo jeito, até que um explosã
 • Se esconder e esperar. [1.1.1] 
 • Correr para o quarto [1.1.2] 
 • Ver o que Aconteceu [1.1.3] 
-  
-================================================= 
+
+======  
+ 
 	[Ir na Varanda ver os arredores [1.2]] 
   
   Você se levanta da cama e vai até a varanda, o dia está bem calmo, mas algo está errado. Quando olha os arredores do seu prédio, vê que tem alguns veículos fora do comum e um pouco intrigante. 
@@ -35,19 +72,21 @@ linha de raciocínio, uma explosão vinda da entrada do seu apartamento, não fo
 • Ver o que aconteceu [1.1.3] 
 • Se proteger e chamar ajuda [1.2.2] 
 
-================================================= 
+======
+ 
 	[Checar o Celular [1.3]] 
 
-  Você pega seu celular e vê que tem algumas ligações não atendidas, com o nome de 'Chefe' aparecendo nelas, todas na média de 18 à 30 minutos atrás, se o chefe chama, geralmente a coisa é séria. Você checa as mensagens também, mas elas não estão muito claras, parace que algo interferiu e vieram incompletas, mas uma delas lhe chama mais atenção:
+  Você pega seu celular e vê que tem algumas ligações não atendidas, com o nome de 'Chefe' aparecendo nelas, todas na média de 18 à 30 minutos atrás, se o chefe chama, geralmente a coisa é séria. Você checa as mensagens também, mas elas não estão muito claras, parece que algo interferiu e vieram incompletas, mas uma delas lhe chama mais atenção:
 ' ... stá ... rigo ... Algu... delatou ... FUJA! '
   Vendo a mensagem, você sabe que algo ou alguém fez merda, e você está metido no meio, mas algo interrompe sua concentração, uma explosão, o barulho vem da entrada.
   O que você vai fazer?
 
   • Ver o que aconteceu [1.1.3]
   • Destruir suas coisas [1.3.1]
-  • Pegar suas coisas e tentar fugir [REQ: STR 3 + DEX 3] [1.3.2]
+  • Pegar suas coisas e tentar fugir [1.3.2]
+  
+======
 
-================================================= 
   	[Se esconder e esperar [1.1.1]] [DEAD END 1]
 
   Você está no banheiro, não sabe para onde ir, nem se tem como sair, então decide esperar. 
@@ -55,34 +94,36 @@ linha de raciocínio, uma explosão vinda da entrada do seu apartamento, não fo
   Você dá um grito de dor, o que acaba entregando sua localização, a porta logo em seguida é derrubada e 2 caras armados estão mirando em você, eles fazem uma sequência de disparos, quase todos lhe acertam, e antes de cair morto você escuta: 
 - Alvo negou-se a abaixar a arma, tivemos de atirar senhor.
 
-=================================================
- 	 [Correr para o quarto [1.1.2]]
+======
 
+ 	 [Correr para o quarto [1.1.2]]
 
   Você está no banheiro, não tem como sair pela janela, a única coisa que passa na sua cabeça agora é: 'Eu tenho que sair daqui e saber o que tá rolando, mas não desprotegido. Tenho de pegar a minha arma.' 
   Você abre a porta e sai correndo meio agachado, quando em seguida quatro tiros quebram a porta, você  consegue chegar em segurança no seu quarto, você pega sua arma e documentos e escuta algumas pessoas avançando para o seu quarto. 
   O que você vai fazer?
 
-• Atirar e fugir [1.4.1]
+• Lutar [1.4.1]
 • Arranjar um jeito de descer por fora [REQ: DEX 4] [1.2.1] 
 • Fazer uma Armadilha [REQ: INT 4] [1.4.2]
 
-=================================================
+======
+
 	[Ver o que aconteceu [1.1.3] [DEAD END 2]
 
-  Você corre em direçã da porta para ver o que aconteceu e se depara com tres homens armados. quando você vai tentar correr, um deles aponta a arma para você.
+  Você corre em direção da porta para ver o que aconteceu e se depara com três homens armados. quando você vai tentar correr, um deles aponta a arma para você.
   -'Parado! Coloque as mãos na cabeça antes que eu atire!' Ele fala ferozmente em sua direção segurando um rifle Bullpup apontado na região do seu peito.
   Você faz o que ele manda, e um dos seus colegas te algema e o coloca contra a parede.
   Não tem mais escapatória, você foi pego, mas antes de ser levado, escuta uma única fala:
   -'Senhor, o alvo foi...
-  ...Elimidado'. um disparo é a última coisa que escuta.
+  ...Eliminado'. um disparo é a última coisa que escuta.
   Você Morreu.
   
-=================================================
+  ======
+
 	[Arranjar um jeito de descer por fora [REQ: DEX 4] [1.2.1]]
   
-  Sua Carteira, Celular e Arma são as únicas coisas que consegue pegar antes que eles cheguem no quarto, você abre a janela e tentar descer pela escada de incêndio, ela está meio enferrujada, mas nada que o atrapalhe.
-  No final da escada, a queda é um pouco grande, mesmo a parte mais perto do solo, o estranho é que a escada que deveria estar ali sumiu, um bom jeito de descer sem se macuhcar seria algo para amortecer a queda, você vê uma pilha de lixo a uns 6 metros da ueda da escada, é meio longe, e sujo, mas é o melhor jeito para não se machucar durante a queda.
+  Seu Celular e Arma são as únicas coisas que consegue pegar antes que eles cheguem no quarto, você abre a janela e tentar descer pela escada de incêndio, ela está meio enferrujada, mas nada que o atrapalhe.
+  No final da escada, a queda é um pouco grande, mesmo a parte mais perto do solo, o estranho é que a escada que deveria estar ali sumiu, um bom jeito de descer sem se machucar seria algo para amortecer a queda, você vê uma pilha de lixo a uns 6 metros da queda da escada, é meio longe, e sujo, mas é o melhor jeito para não se machucar durante a queda.
   Você dá alguns passos para ter um impulso e pula. Consegue chegar são e 'salvo' no lixo, além do fedor eminente emanando das suas roupas.
   Ao seu redor têm pouca coisa, além dos lixos soltos do beco, da escada de incêndio, há a o automóvel estranho de antes, você chega perto e consegue identificá-lo por ser usado pela polícia em momentos especiais como ladrões e assassinos, etc. Você é considerado um desses 'momentos especiais'.
   Agora, O que você vai fazer?
@@ -91,5 +132,66 @@ linha de raciocínio, uma explosão vinda da entrada do seu apartamento, não fo
 • Procurar Informações [1.5.2]
 • Sabotar a Van [REQ: INT 3] [1.5.3]
 
-================================================
-	
+======
+
+	[Se proteger e chamar ajuda [1.2.2]]
+
+  Esconder-se atrás da cama para usa-la de proteção não é a coisa mais útil, mas pode lhe arranjar algum tempo. Seu celular está lotado de mensagens e ligações, só que agora você está sem sinal para retornar a ligação, ou mesmo pedir ajuda. Sua única saída agora é lutar ou correr. 
+  O que você vai fazer?
+
+• Arranjar um jeito de descer por fora [REQ: DEX 4] [1.2.1]
+• Lutar [1.4.1]
+• Pegar suas coisas e tentar fugir [1.3.2]
+
+======
+
+	[Destruir suas coisas [1.3.1]]
+
+  A primeira coisa que passa na sua cabeça agora é, se forem me pegar, tudo bem, mas não vão pegar as provas de todos os meus trabalhos e da minha equipe, você joga álcool em cima da bancada de trabalho e taca fogo em tudo por ali. As únicas coisas que ficam com você é seu celular e arma, agora sua única saída é fugir.
+  O fogo lhe proporcionou um pouco de tempo para escapar, você pega o lençol da cama, amarra na escada de incêndio e desce com segurança.
+  Ao seu redor têm pouca coisa, além dos lixos soltos do beco, da escada de incêndio, há a o automóvel estranho de antes, você chega perto e consegue identificá-lo por ser usado pela polícia em momentos especiais como ladrões e assassinos, etc. Você é considerado um desses 'momentos especiais'.
+  Agora, O que você vai fazer? 
+  
+• Ir até a 'Base' [1.5.1]
+• Procurar Informações [1.5.2]
+• Sabotar a Van [REQ: INT 3] [1.5.3] 
+
+======
+
+	[Pegar suas coisas e tentar fugir  [1.3.2]] [DEAD END 3]
+
+  Você pega uma mala e coloca as coisas mais importantes que vê pela frente, fica um pouco pesado e difícil de carregar, mas nada impossível.
+  Quando está saindo para a varanda um dos caras chega no quarto e o vê com a mala, a primeira reação dele é atirar, uma rajada sai enquanto você está prestes a descer, um dos tiros pega no meio do seu peito, você cai do 3° andar e morre pelo impacto. 
+Você Morreu.
+
+======
+
+	[Lutar [1.4.1]]
+
+ Você decide lutar e descobrir o porque de tudo isso estar acontecendo. Tem algumas balas no criado-mudo, você pega e carrega sua arma. 
+  Quando terminou de carrega-la e destrava-la, dois homens armados entram no seu quarto, mas já estava esperando por isso, você os pega desprevenido e acerta um na cabeça e outro no ombro.
+  Você levanta e dá o segundo tiro para matar o ‘soldado', sendo pego de surpresa pelo terceiro que acerta um tiro no seu braço, pois conseguiu sair da frente à tempo da bala te acertar em uma parte vital.
+  Para não morrer em vão no combate, você arrasta um dos corpos rapidamente e checa o que ele possui, um rifle, comunicador, munição e umas granadas emp, um kit médico e um colete a prova de balas.
+O que você vai fazer?
+
+• Se equipar com o que ele tinha [1.6.1
+• Usar a granada para distrair e mata-lo [1.6.2]
+• Usar o Kit médico para se recuperar [1.6.3]
+
+======
+
+	[Fazer uma armadilha [1.4.2]]
+
+  Você pega as primeiras coisas que vê pela frente e monta uma pequena armadilha, pequena mas letal, com um arame e dois explosivos plásticos, você monta algo, agora se tentarem abrir a porta: ‘BOOM'.
+  Para não ser pego também pela explosão, você pega seu celular, arma e corre para fora.
+  O que você vai fazer?
+
+• Se esconder e esperar a armadilha [1.7.1]
+• Fugir [1.7.2]
+• 
+
+======
+
+	[Ir até a ‘Base' [1.5.1]]
+
+  Você está indo até a base, 
