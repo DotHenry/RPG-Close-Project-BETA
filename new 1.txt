@@ -149,7 +149,7 @@ linha de raciocínio, uma explosão vinda da entrada do seu apartamento, não fo
 
   A primeira coisa que passa na sua cabeça agora é, se forem me pegar, tudo bem, mas não vão pegar as provas de todos os meus trabalhos e da minha equipe, você joga álcool em cima da bancada de trabalho e taca fogo em tudo por ali. As únicas coisas que ficam com você é seu celular e arma, agora sua única saída é fugir.
   O fogo lhe proporcionou um pouco de tempo para escapar, você pega o lençol da cama, amarra na escada de incêndio e desce com segurança.
-  Ao seu redor têm pouca coisa, além dos lixos soltos do beco, da escada de incêndio, há a o automóvel estranho de antes, você chega perto e consegue identificá-lo por ser usado pela polícia em momentos especiais como ladrões e assassinos, etc. Você é considerado um desses 'momentos especiais'.
+  Ao seu redor têm pouca coisa, além dos lixos soltos do beco, da escada de incêndio, há a o automóvel estranho de antes.
   Agora, O que você vai fazer? 
   
 • Ir até a 'Base' [1.5.1]
@@ -188,10 +188,17 @@ O que você vai fazer?
 
 • Se esconder e esperar a armadilha [1.7.1]
 • Fugir [1.7.2]
-• 
 
 ======
 
 	[Ir até a ‘Base' [1.5.1]]
 
-  Você está indo até a base, 
+  Você está indo até a base, pega alguns becos e atalhos para se prevenir de não ser seguido, a única coisa que passa na sua cabeça enquanto tudo isso acontece é:
+  -'Quem foi o filha da puta que me dedurou, homens armados que não se identificam, invadem um local em plena manhã e vem com intenção de matar. Isso não vai ficar assim.'
+  Até que chega na entrada da base, você chama para que abram e ninguém aparece, passa alguns minutos, você chama de novo, e nada.
+  Começar a bater uma preocupação de que não foram só atrás de você.
+  Você força a porta para que abra, nem precisou de muita força, logo quando ela abre, tudo está revirado, sofá rasgado, folhas espalhadas, mesas viradas, computadores e eletrônicos quebrados, gavetas abertas e um pouco de sangue pelo ambiente, um cenário de luta, buracos de bala em várias paredes, o que foi que passou por aqui, não foi nada suave.
+  Você adentra um pouco mais pela base, para investigar mais a fundo, todas as salas estão vazias, planejamento, armas, dormitórios, segurança, tudo.
+  
+  
+  
