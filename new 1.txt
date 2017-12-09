@@ -102,7 +102,6 @@ linha de raciocínio, uma explosão vinda da entrada do seu apartamento, não fo
   Você abre a porta e sai correndo meio agachado, quando em seguida quatro tiros quebram a porta, você  consegue chegar em segurança no seu quarto, você pega sua arma e documentos e escuta algumas pessoas avançando para o seu quarto. 
   O que você vai fazer?
 
-• Lutar [1.4.1]
 • Arranjar um jeito de descer por fora [REQ: DEX 4] [1.2.1] 
 • Fazer uma Armadilha [REQ: INT 4] [1.4.2]
 
@@ -140,7 +139,6 @@ linha de raciocínio, uma explosão vinda da entrada do seu apartamento, não fo
   O que você vai fazer?
 
 • Arranjar um jeito de descer por fora [REQ: DEX 4] [1.2.1]
-• Lutar [1.4.1]
 • Pegar suas coisas e tentar fugir [1.3.2]
 
 ======
@@ -163,20 +161,6 @@ linha de raciocínio, uma explosão vinda da entrada do seu apartamento, não fo
   Você pega uma mala e coloca as coisas mais importantes que vê pela frente, fica um pouco pesado e difícil de carregar, mas nada impossível.
   Quando está saindo para a varanda um dos caras chega no quarto e o vê com a mala, a primeira reação dele é atirar, uma rajada sai enquanto você está prestes a descer, um dos tiros pega no meio do seu peito, você cai do 3° andar e morre pelo impacto. 
 Você Morreu.
-
-======
-
-	[Lutar [1.4.1]]
-
- Você decide lutar e descobrir o porque de tudo isso estar acontecendo. Tem algumas balas no criado-mudo, você pega e carrega sua arma. 
-  Quando terminou de carrega-la e destrava-la, dois homens armados entram no seu quarto, mas já estava esperando por isso, você os pega desprevenido e acerta um na cabeça e outro no ombro.
-  Você levanta e dá o segundo tiro para matar o ‘soldado', sendo pego de surpresa pelo terceiro que acerta um tiro no seu braço, pois conseguiu sair da frente à tempo da bala te acertar em uma parte vital.
-  Para não morrer em vão no combate, você arrasta um dos corpos rapidamente e checa o que ele possui, um rifle, comunicador, munição e umas granadas emp, um kit médico e um colete a prova de balas.
-O que você vai fazer?
-
-• Se equipar com o que ele tinha [1.6.1
-• Usar a granada para distrair e mata-lo [1.6.2]
-• Usar o Kit médico para se recuperar [1.6.3]
 
 ======
 
@@ -219,4 +203,91 @@ O que você vai fazer?
 	[Procurar Informações [1.5.2] [CAPTURE END 1]
 
   Você anda aos arredores procurando por algo que possa lhe ajudar na sua busca, qualquer coisa, você decide abrir a van e ver se tem algo lá para te ajudar, você acha algumas informações, uma pequena pasta de documentos, quando você abre, o que está nas suas mãos é sua ficha inteira, desde onde você nasceu até o último trabalho feito, o que o preocupa muito porque essa pasta tem documentos do seu trabalho atual junto, o que fica em segurança na sua base, e só quem sabe onde eles ficam exatamente lá dentro é o Tom, o técnico do grupo e o Chefe.
-  Quando você vai sair da van, você é emboscado na van por alguns homens armados, você leva uma coronhada
+  Quando você vai sair da van, você é emboscado na van por alguns homens armados, você leva uma coronhada e é nocauteado.
+  Você acorda em uma cela sem saber o que aconteceu.
+  Você foi Pego.
+  
+======
+
+	[Sabotar a Van [REQ: INT 3] [1.5.3]]
+	
+  Sua arma é mais para proteção do que para machucar alguém, então por que não usá-la e destruir alguns pneus?
+  Você puxa sua pistola, destrava e dá um tiro em cada roda, se forem me seguir que sejam espertos e descubram um novo modo
+  E agora, vai fazer o que?
+  
+  • Ir até a 'Base' [1.5.1]
+  • Procurar Informações [1.5.2]
+  
+======
+
+	[Se esconder e esperar a armadilha [1.7.1]]
+	
+  Você espera alguns segundos, e logo com o barulho da porta, vem a explosão, você olha pra trás e aquilo que você chamava de apartamento já não está mais inteiro, nem os homens que uma vez estivera ali. Você pega o que sobrou do seu quarto, como alguns documentos e sai dali o mais rápido.
+  Vai fazer o que?
+  
+  • Ir até a 'Base' [1.5.1]
+  • Procurar Informações [1.5.2]
+  
+======
+
+	[Fugir [1.7.2]]
+	
+  Você mete o pé, logo depois que desce escuta a explosão de fundo vindo do seu apartamento, pelo jeito funcionou.
+  E agora, vai fazer o que?
+  
+  • Ir até a 'Base' [1.5.1]
+  • Procurar Informações [1.5.2]
+ 
+======
+
+	[Salvar Tom [2.0.1]]
+	
+-'Então você escolheu o tom não? foi uma boa escolha.'
+Você escuta dois disparos em seguida, e ele continua a falar:
+-'Agora já que você saiu vivo de antes, me encontre no orfanato onde você cresceu, ou eu mato ele também.'
+  E o vídeo vai para fora do ar.
+  O que você vai fazer?
+
+  • Ir até lá [2.1.1]
+  • Viver a sua vida [2.1.2]
+  
+======
+
+	[Salvar Julie [2.0.2]]
+	
+-'Então o cavalheiro escolheu a sua donzela em perigo? hahaha! ótimo ouvir isso, então eles serão desnecessários.'
+  Você percebe que ele abaixa a câmera e quando vai dar os tiros ele interrompe:
+-'Não Não!, quase que esqueci de gravar pra você, não pode perder o show!'
+  Você vê pelo celular o seu Chefe e Colega serem mortos alvejados por tiros.
+-'Agora para não ficar com a missão pela metade, me encontre no orfatano, aquele que você cresceu lembra? ou ela morrerá.'
+  O Vídeo termina por aí.
+  O que você vai fazer?
+  
+    • Ir até lá [2.1.1]
+    • Viver a sua vida [2.1.2]
+    
+======
+
+	[Salvar Chefe [2.0.3]
+	
+-'O filho à casa retorna então? o amor de chefe e funcionário, é? hahaha, então o resto morre.'
+Você vê ele matar seus dois companheiros e volta dizer para a câmera:
+-'Então para salvar o seu chefinho lindo, venha ao orfanato, ou ele morre.'
+Fim do vídeo.
+  O que você vai fazer?
+  
+    • Ir até lá [2.1.1]
+    • Viver a sua vida [2.1.2]
+    
+======
+ 
+ 	[Viver sua vida [2.1.2] FUCK EVERYONE END
+	
+  Você retorna às origens que foi treinado, sem ligações com ninguém, sem laços, e decide seguir seu próprio rumo.
+  O que aconteceu com eles é problema deles, vou viver minha vida.
+  
+======
+
+	[Ir até lá [2.1.1]
+	
+  Você decide ir e obedecer 
