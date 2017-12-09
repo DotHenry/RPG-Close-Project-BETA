@@ -199,6 +199,24 @@ O que você vai fazer?
   Começar a bater uma preocupação de que não foram só atrás de você.
   Você força a porta para que abra, nem precisou de muita força, logo quando ela abre, tudo está revirado, sofá rasgado, folhas espalhadas, mesas viradas, computadores e eletrônicos quebrados, gavetas abertas e um pouco de sangue pelo ambiente, um cenário de luta, buracos de bala em várias paredes, o que foi que passou por aqui, não foi nada suave.
   Você adentra um pouco mais pela base, para investigar mais a fundo, todas as salas estão vazias, planejamento, armas, dormitórios, segurança, tudo.
+  O que lhe chama a atenção é uma celular sozinho em cima de sua mesa, quando você chega perto, ele começa a tocar, uma chama de vídeo
+  Quando o vídeo começa, um dos seus colegas aparece de fundo, todo machucado e ferido, sendo segurado por alguns guardas, enquanto uma voz familiar fala:' Chega! eu começei a gravação, não vamos assustar nosso espectador, hahaha!'
+  a câmera vira para o rosto dele, e é um dos seus colegas de trabalho, ele olha bem fundo na câmera e diz:
+  -'Olá amigo, acho que se você ver isso aqui, quer dizer que aqueles três merdas não foram suficientes pra matá-lo. E eu vou lhe dar um prêmio por isso'. Ele vira a câmera novamente, e agora aparece todo o resto do seu grupo.
+  -'Continuando, você ai receber um prêmio, pode escolher qual deles ficará vivo! Olha que chance única, pois eu estava com vontade de matar todos eles! Então, vou lhe apresentar suas opções, caso não lembre.'
+  Ele puxa uma arma e aponta para o primeiro.
+  -'O Primeiro, também conhecido como Tom, o técnico no grupo, meio anti-social, mas serve para algo.
+  -'A Segunda, a charmosa Julie, tem uma ótima mira, se eu fosse você pegava ela.
+  -'e por último e não menos imporante, seu Chefe, aquele velho arrogante e chato.
+  Então, qual vai ser?
   
+  • Salvar Tom [2.0.1]
+  • Salvar Julie [2.0.2]
+  • Salvar seu Chefe [2.0.3]
   
-  
+======
+
+	[Procurar Informações [1.5.2] [CAPTURE END 1]
+
+  Você anda aos arredores procurando por algo que possa lhe ajudar na sua busca, qualquer coisa, você decide abrir a van e ver se tem algo lá para te ajudar, você acha algumas informações, uma pequena pasta de documentos, quando você abre, o que está nas suas mãos é sua ficha inteira, desde onde você nasceu até o último trabalho feito, o que o preocupa muito porque essa pasta tem documentos do seu trabalho atual junto, o que fica em segurança na sua base, e só quem sabe onde eles ficam exatamente lá dentro é o Tom, o técnico do grupo e o Chefe.
+  Quando você vai sair da van, você é emboscado na van por alguns homens armados, você leva uma coronhada
