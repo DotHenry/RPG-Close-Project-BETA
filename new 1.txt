@@ -289,5 +289,73 @@ Fim do vídeo.
 ======
 
 	[Ir até lá [2.1.1]
-	
-  Você decide ir e obedecer 
+
+Você foi lá no orfanato onde foi pedido pelo seu ex-colega, está começando a anoitecer, o local parece abandonado. Você adentra pelos fundos um pouco com cautela e vê ele, dois guardas e o seu amigo(a).
+Pelo visto, eles ainda não te perceberam.
+O que vai fazer 
+
+• Atirar nele [2.2.1]
+• Atirar nos guardas [2.2.2]
+
+======
+
+[Atirar nele [2.2.1] [NO ONE LIVES END]]
+
+Você pega e atira no seu ex-colega, ele cai no chão morto e os dois guardas começam a atirar na sua direção. um dos guardas aproveita a situação e já mata seu amigo(a).
+Você consegue matar os guardas com um pouco de dificuldade mas seu colega morreu.
+Você sai sozinho do prédio.
+Fim.
+
+======
+
+Atirar nos guardas [2.2.2]
+
+Você atira nos guardas antes de acertar, ele puxa a arma e da alguns tiros em sua direção, um deles pega no seu ombro e ele fala em seguida:
+-'Muita ousadia sua tentar ficar sozinho contra mim, podia ter me matado primeiro, ou tentasse hahaha!
+O que você vai fazer?
+
+• Atirar [2.3.1]
+• Atirar e se esconder [2.3.2]
+
+======
+
+Atirar [2.3.1] [DEAD END 4]
+
+Você começa a atirar freneticamente em cima dele, ele aproveita uma das brechas e da um tiro certeiro em você,
+Você leva um tiro no meio da cabeça e morre.
+
+======
+
+Atirar e se esconder [2.3.2]
+
+Você da uns tiros, muda de posição, dá mais alguns, e ficam nessa por um tempo, ate que escuta ele falando:
+-'Se formos ficar só fazendo isso que seu colega morra!'
+Ele puxa a arma para atirar nele e você consegue acerta-lo finalmente no braço, e a arma dele cai.
+Você avança e, antes que ele possa pegar a arma, você gasta o resto do pente atirando nele.
+
+======
+
+Se salvou Tom [HAPPY END 1]
+
+Você consegue mata-lo e resgata seu amigo Tom que estava desmaiado no chão, você o ajuda a acordar e ele fala:
+-'Então voce... Conseguiu?'
+-'Sim, eu matei ele, mas vamos sair daqui logo.'
+Vocês dois saem do orfanato e vão viver suas vidas. O chefe esta morto, mas n é por isso que ainda não possam trabalhar, o dinheiro tem de vir de algum lugar.
+
+======
+
+Se salvou a Julie [HAPPY END 2]
+
+Você vê ela inconsciente e vai correndo ajudar,  você a levanta e chama a atenção até que ela acorda ,olha para você e te abraça:
+-'Você conseguiu, obrigada!'.
+-'Agora vamos sair antes que algo aconteça 
+Vocês saem e vivem juntos, arranjam um jeito de conseguir dinheiro e viver por si.
+
+======
+
+Se salvou o Chefe [HAPPY END 3]
+
+Você vê seu sensei e o ajuda a levantar, ele olha pra você e diz:
+-'Obrigado pela ajuda, agora vamos embora, temos de achar um novo grupo pra você depois.
+Vocês saem e tudo volta a ser como era, pessoas vão, pessoas vem e tudo passa.
+Fim
