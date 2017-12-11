@@ -1,3 +1,101 @@
+PARTE DAS ENTRADAS, E DEPOIS TEM QUE COMEÇAR AS HISTÓRIAS E TAL, FIZ TODAS ENTRADAS POSSÍVEIS, COM TODOS OS ERROS DE CÓDIGOS INVÁLIDOS, TA SUCESSO O NEGÓCIO
+TEM A INTRODUÇÃO + ENTRADAS AÍ
+public class Lista10_1 {
+  public static void main (String args[]) { 
+    int str = 0;
+    int dex = 0;
+    int inteli = 0;
+    int max = 9;
+    int x = 0;
+    int aux = 0;
+    Intro ();
+    System.out.print ("Você possui 9 pontos para usar em 3 diferentes habilidades, as quais foram citadas acima. \n ");
+    str = Entrada.leiaInt (" Quantos pontos deseja em STRENGTH ( Força ) ?");
+    while (( str < 0 ) || ( str > 9 )) {
+      System.out.println (" Opção inválida, tente novamente informando um número válido. ");
+      str = Entrada.leiaInt (" Quantos pontos deseja em STRENGTH ( Força ) ? ");
+    }
+    max = max - str;
+    if ( max != 0 ) {
+      System.out.println (" Você ainda possui "+max+" pontos para usar em 2 habilidades restantes \n");
+      dex = Entrada.leiaInt (" Quantos pontos deseja em DEXTERITY ( Dextreza ) ?");
+      while (( dex < 0 ) || ( dex > max )) {
+        System.out.println (" Opção inválida, tente novamente informando um número válido. ");
+        dex = Entrada.leiaInt (" Quantos pontos deseja em DEXTERITY ( Dextreza ) ?");
+      }
+      max = max - dex;
+    }
+    if ( max != 0 ) {
+      System.out.println (" Você ainda possui "+max+" pontos para usar em 1 habilidade restante \n");
+      inteli = Entrada.leiaInt (" Quantos pontos deseja em INTELLIGENCE ( Inteligência ) ?");
+      while (( inteli < 0 ) || ( inteli > max )) {
+        System.out.println (" Opção inválida, tente novamente informando um número válido. ");
+        inteli = Entrada.leiaInt (" Quantos pontos deseja em  INTELLIGENCE ( Inteligência ) ?\n ");
+      }
+      max = max - inteli;
+    }
+    System.out.println (" Perfil de Habilidades: \n STRENGTH ( Força ): "+str+" Pontos \n DEXTERITY ( Dextreza ): "+dex+" Pontos \n INTELLIGENCE ( Inteligência ): "+inteli+ " Pontos \n \n" );
+    if ( max == 0 ) {
+      System.out.println (" Você não possui mais pontos, pois já usou todos.  A aventura irá começar! ");
+    } else {
+      while ( max != 0 ) {
+        System.out.println (" Você ainda possui "+max+" pontos para usar. \n Digite 1 para escolher uma quantia em Força \n Digite 2 para escolher uma quantia em Dextreza \n Digite 3 para escolher uma quantia em Inteligência \n ");
+        x = Entrada.leiaInt (" Digite a opção desejada ");
+        while (( x != 1 ) && ( x != 2 ) && ( x != 3 )) {
+          System.out.println ("Opção Inválida");
+          x = Entrada.leiaInt (" Digite a opção desejada ");
+        }
+        if ( x == 1 ) {
+          aux = Entrada.leiaInt (" Quantos pontos deseja em STRENGTH ( Força ) ? ");
+          while (( aux < 0 ) ||  ( aux > max)) {
+            System.out.println ("Opção Inválida");
+            aux = Entrada.leiaInt (" Quantos pontos deseja em STRENGTH ( Força ) ? ");
+          }
+          str = str + aux;
+          max = max - aux;
+          System.out.println (" Perfil de Habilidades: \n STRENGTH ( Força ): "+str+" Pontos \n DEXTERITY ( Dextreza ): "+dex+" Pontos \n INTELLIGENCE ( Inteligência ): "+inteli+ " Pontos \n \n" );
+        }
+        if ( x == 2 ) {
+          aux = Entrada.leiaInt (" Quantos pontos deseja em DEXTERITY ( Dextreza ) ? ");
+          while (( aux < 0 ) ||  ( aux > max)) {
+            System.out.println ("Opção Inválida");
+            aux = Entrada.leiaInt (" Quantos pontos deseja em DEXTERITY ( Dextreza ) ? ");
+          }
+          dex = dex + aux;
+          max = max - aux;
+          System.out.println (" Perfil de Habilidades: \n STRENGTH ( Força ): "+str+" Pontos \n DEXTERITY ( Dextreza ): "+dex+" Pontos \n INTELLIGENCE ( Inteligência ): "+inteli+ " Pontos \n \n" );
+        }
+        if ( x == 3 ) {
+          aux = Entrada.leiaInt (" Quantos pontos deseja em INTELLIGENCE ( Inteligência ) ? ");
+          while (( aux < 0 ) ||  ( aux > max)) {
+            System.out.println ("Opção Inválida");
+            aux = Entrada.leiaInt (" Quantos pontos deseja em INTELLIGENCE ( Inteligência ) ? ");
+          }
+          inteli = inteli + aux;
+          max = max - aux;
+          System.out.println (" Perfil de Habilidades: \n STRENGTH ( Força ): "+str+" Pontos \n DEXTERITY ( Dextreza ): "+dex+" Pontos \n INTELLIGENCE ( Inteligência ): "+inteli+ " Pontos \n \n" );        
+        }
+        System.out.println (" Você não possui mais pontos, pois já usou todos.  A aventura irá começar! ");
+      }    
+    }
+  }
+  public static void Intro () { 
+    System.out.println (" Bem-vindo ao ShadowRunner \n");
+    System.out.println (" • Mundo \n  Você está situado em um mundo distópico pelo ano de 2056, onde existe a magia, e com ela, tudo evoluiu mais rápido que o normal, as pessoas se dividiram em raças (Anão, Troll, Elfo, Orcs e Humanos), a Tecnologia evoluiu drasticamente (robôs, drones, etc). ");
+    System.out.println (" As nações não possuem mais o poder governamental, e sim as NeoEmpresas. \n As NeoEmpresas são empresas tão grandes que passam do limite territorial, ou seja, são elas que controlam as nações, e as regras. ");
+    System.out.println (" E no meio disso tudo é onde você estará situado como um Shadowrunner. Mas afinal, oque é um Shadowrunner?  ");
+    System.out.println (" Eles, como o nome diz, são 'Corredores das Sombras', você é um ladrão, dará a sua vida pelo 'trabalho sujo', e fará de tudo para completar sua missão e rezar para que não seja descoberto, por que se for, eles irão atrás de você. Mas não pense que são só ladrões, e como se fosse a 'elite' deles. \n ");
+    System.out.println (" •Seu Passado \n Agora em especial, o seu personagem. \n ");
+    System.out.println (" Você será John, um humano com 29 anos. Você teve um passado triste, pois foi criado em um orfanato, e no decorrer da sua vida, acabou sendo arrastado para uma vida de crimes e roubos para poder sobreviver. ");
+    System.out.println (" Em um dia na sua infância, um senhor apareceu por lá, ninguém sabia o porque nem de onde ele veio, mas que ele era estranho, todos concordavam. \n Até que tiveram a brilhante ideia de rouba-lo também.");
+    System.out.println (" Você e seus amigos esperaram até o melhor momento para fazer a tentiva, mas foram parados, todos quase que ao mesmo tempo, pelo senhor. Seus olhos brilharam de medo e respeito por ele. ");
+    System.out.println (" Ele chamou-lhe para treinar pois ficou intrigado por sua coragem, mesmo não conhecendo tal homem. \n Muitos anos depois, você já era treinado para o que fazia, roubar. Já havia feito vários trabalhos com várias pessoas e havia conquistado seu próprio grupo. \n");
+    System.out.println ("• Características  \n Esse RPG também há um sistema de características, uma coisa básica para auxiliar na jogabilidade. \n Você terá 3 Características: \n • STRENGTH (Força) \n • DEXTERITY (Dextreza) \n • INTELLIGENCE (Inteligência) \n Cada um deles tem uma função específica, como exemplo: \n STRENGTH será para verificar a força do seu personagem, quanto peso consegue aguentar, o quão longe pula, etc. \n DEXTERITY será para verificar sua velocidade nas tarefas, acrobacias, mira com armas de fogo, etc. \n INTELLIGENCE será para sua velocidade de raciocínio, construção de peças e afins, conhecimento mundano, etc. \n Seu personagem terá 9 pontos para ser gasto em entre elas, o que irá afetar durante o jogo, pois algumas escolhas só serão feitas se você cumprir o requisito de tal característica. \n");  ; 
+  }
+}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 Texto Introdutório Atual
 
 Bem-vindo ao ShadowRunner
